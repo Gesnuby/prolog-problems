@@ -1,0 +1,1 @@
+Solution for first 28 (lengthPacked) "99-Prolog problems"
